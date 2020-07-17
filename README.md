@@ -11,8 +11,8 @@ Professional: Remote Pair-Programming, Teamwork
 
 
 📫 How to reach me:
-linkedin: https://www.linkedin.com/in/jessica-michelle-farias-rosado/
-website: http://jessicafarias.dx.am/
-twitter: https://twitter.com/FariasRosado
+-linkedin: https://www.linkedin.com/in/jessica-michelle-farias-rosado/
+-website: http://jessicafarias.dx.am/
+-twitter: https://twitter.com/FariasRosado
 
 ⚡ Fun fact: I'm a mechatronic engineering working as a Full Stack Web Developer
