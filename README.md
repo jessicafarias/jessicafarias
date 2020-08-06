@@ -5,7 +5,7 @@ Full-Stack Web Developer 👋
 ## SKILLS
  - **Code**: Php, C#, Java, HTML & CSS, Bootstrap, Ruby, SQL...
  - **Tools**: Visual Studio, VSC, Git, GitHub, Google Cloud, PhpAdmin, Xampp, PostgresSQL ...
- - **Lenguages** 💬: English, Spanish
+ - **Languages** 💬: English, Spanish
 
 ## Professional: Remote Pair-Programming, Teamwork
 🌱 I’m currently learning Ruby
