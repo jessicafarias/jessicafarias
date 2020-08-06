@@ -1,5 +1,6 @@
 ## Jessica Michelle Farías Rosado
 Full-Stack Web Developer 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=jessicafarias&show_icons=true&hide_border=true" />
 
 ## SKILLS
  - **Code**: Php, C#, Java, HTML & CSS, Bootstrap, Ruby, SQL...
