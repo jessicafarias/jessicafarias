@@ -8,12 +8,12 @@ Full-Stack Web Developer 👋
  - **Languages** 💬: English, Spanish
 
 ## Professional: Remote Pair-Programming, Teamwork
-🌱 I’m currently learning Ruby
+🌱 I’m currently learning Ruby on Rails
 
 
 ## 📫 How to reach me:
  - linkedin: [Jessica Michelle Farias Rosado](https://www.linkedin.com/in/jessica-michelle-farias-rosado/)
- - website: [AboutMe] (http://jessicafarias.dx.am/)
+ - website: [AboutMe](http://jessicafarias.dx.am/)
  - twitter: [@FariasRosado](https://twitter.com/FariasRosado)
 
 ⚡ I'm a mechatronic engineering working as a Full Stack Web Developer
