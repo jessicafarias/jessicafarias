@@ -3,8 +3,8 @@ Full-Stack Web Developer 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=jessicafarias&show_icons=true&hide_border=true" />
 
 ## SKILLS
- - **Code**: C#, Java, HTML & CSS, Bootstrap, SASS, Ruby, Ruby on Rails, SQL (MySql, PostgreSQL, SQLite), Javascript...
- - **Tools**: Webpack, Android Studio, Visual Studio, VSC, Git, GitHub, Google Cloud, PhpAdmin, Xampp, Firebase, pgAdmin...
+ - **Code**: C#, Java, HTML & CSS, Bootstrap, SASS, Javascript, Ruby, Ruby on Rails, SQL, MySql, PostgreSQL, SQLite.
+ - **Tools**: Webpack, Android Studio, Visual Studio, VSC, Git, GitHub, Google Cloud, PhpAdmin, Xampp, Firebase, pgAdmin.
  - **Languages** 💬: English, Spanish
 
 ## Professional: Remote Pair-Programming, Teamwork
