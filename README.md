@@ -16,5 +16,5 @@ Full-Stack Web Developer 👋
  - website: [AboutMe](http://jessicafarias.me/)
  - twitter: [@FariasRosado](https://twitter.com/FariasRosado)
 
-⚡ I'm a mechatronic engineering working as a Full Stack Web Developer
+⚡ I'm a mechatronic engineer working as a Full-Stack Web Developer
 
