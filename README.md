@@ -3,9 +3,36 @@ Full-Stack Web Developer 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=jessicafarias&show_icons=true&hide_border=true" />
 
 ## SKILLS
- - **Code**: C#, Java, HTML & CSS, Bootstrap, SASS, Javascript, Ruby, Ruby on Rails, SQL, MySql, PostgreSQL, SQLite.
- - **Tools**: Webpack, Android Studio, Visual Studio, VSC, Git, GitHub, Google Cloud, PhpAdmin, Xampp, Firebase, pgAdmin.
- - **Languages** 💬: English, Spanish
+### **Code**:
+
+[![C Sharp](https://img.shields.io/badge/-C--Sharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://jessicafarias.github.io/)
+[![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://jessicafarias.github.io/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://jessicafarias.github.io/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://jessicafarias.github.io/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://jessicafarias.github.io/)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)](https://jessicafarias.github.io/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)](https://jessicafarias.github.io/)
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby--on--rails-CC0000?style=for-the-badge&logo=Ruby-on-rails&logoColor=white)](https://jessicafarias.github.io/)
+
+### **Databases**:
+
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://jessicafarias.github.io/)
+[![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)](https://jessicafarias.github.io/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://jessicafarias.github.io/)
+[![Google Cloud](https://img.shields.io/badge/-Google--Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://jessicafarias.github.io/)
+[![FireBase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](https://jessicafarias.github.io/)
+
+### **Tools**: 
+
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://jessicafarias.github.io/)
+[![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://jessicafarias.github.io/)
+[![VSC](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
+[![Visual Studio](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://jessicafarias.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
+
+### **Languages** 💬: English, Spanish
 
 ## Professional: 
  - Remote Pair-Programming
