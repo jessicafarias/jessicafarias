@@ -35,8 +35,8 @@ Full-Stack Web Developer 👋
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
 
 ### **Languages** 💬: English, Spanish
-[![English](https://img.shields.io/badge/-Git-F05032?style=for-the-badge)](https://jessicafarias.github.io/)
-[![Spanish](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
+[![English](https://img.shields.io/badge/-English-F05032?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Spanish](https://img.shields.io/badge/-Spanish-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
 
 ## Professional: 
 [![Remote](https://img.shields.io/badge/-Visual--Remote-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
