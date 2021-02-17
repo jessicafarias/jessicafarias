@@ -42,7 +42,7 @@ Full-Stack Web Developer 👋
 [![Remote](https://img.shields.io/badge/-Visual--Remote-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
 [![Pair Programming](https://img.shields.io/badge/-Pair--Programming-5C2D91?style=for-the-badge)](https://jessicafarias.github.io/)
 [![Problem Solving](https://img.shields.io/badge/-Problem--Solving-F05032?style=for-the-badge)](https://jessicafarias.github.io/)
-[![Teamwork](https://img.shields.io/badge/-Teaamwork-181717?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Teamwork](https://img.shields.io/badge/-Teamwork-181717?style=for-the-badge)](https://jessicafarias.github.io/)
 [![Mentoring](https://img.shields.io/badge/-Mentoring-181717?style=for-the-badge)](https://jessicafarias.github.io/)
 
 ## 🌱 I’m currently learning
