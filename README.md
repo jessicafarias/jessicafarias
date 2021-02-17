@@ -14,6 +14,8 @@ Full-Stack Web Developer 👋
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)](https://jessicafarias.github.io/)
 [![Ruby on Rails](https://img.shields.io/badge/-Ruby--on--rails-CC0000?style=for-the-badge&logo=Ruby-on-rails&logoColor=white)](https://jessicafarias.github.io/)
+[![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-REDUX-black?style=for-the-badge&logo=Redux&logoColor=764ABC)](https://redux.js.org/)
 
 ### **Databases**:
 
@@ -33,17 +35,19 @@ Full-Stack Web Developer 👋
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
 
 ### **Languages** 💬: English, Spanish
+[![English](https://img.shields.io/badge/-Git-F05032?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Spanish](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
 
 ## Professional: 
- - Remote Pair-Programming
- - Problem Solving
- - Teamwork
- - Mentoring
-  
-## 🌱 I’m currently learning
- [![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
- [![Redux](https://img.shields.io/badge/-REDUX-black?style=for-the-badge&logo=Redux&logoColor=764ABC)](https://redux.js.org/)
+[![Remote](https://img.shields.io/badge/-Visual--Remote-007ACC?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Pair Programming](https://img.shields.io/badge/-Pair--Programming-5C2D91?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Problem Solving](https://img.shields.io/badge/-Problem--Solving-F05032?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Teamwork](https://img.shields.io/badge/-Teaamwork-181717?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Mentoring](https://img.shields.io/badge/-Mentoring-181717?style=for-the-badge)](https://jessicafarias.github.io/)
 
+## 🌱 I’m currently learning
+[![WebGL](https://img.shields.io/badge/-WebGL-0077B5?style=for-the-badge)](https://jessicafarias.github.io/)
+[![Website](https://img.shields.io/badge/-3D--render-black?style=for-the-badge)](https://jessicafarias.github.io/)
 
 ## 📫 How to reach me:
  [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=Julia&logoColor=white)](https://jessicafarias.github.io/)
