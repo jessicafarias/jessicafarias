@@ -1,8 +1,9 @@
 ## Jessica Michelle Farías Rosado
 Full-Stack Web Developer 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=jessicafarias&show_icons=true&hide_border=true" />
 
 ## SKILLS
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=jessicafarias&show_icons=true&hide_border=true" />
+
 ### **Code**:
 
 [![C Sharp](https://img.shields.io/badge/-C--Sharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://jessicafarias.github.io/)
