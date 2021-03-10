@@ -12,7 +12,6 @@ Mechatronic Engineer & Full-Stack Web Developer
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://jessicafarias.github.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://jessicafarias.github.io/)
 [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)](https://jessicafarias.github.io/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)](https://jessicafarias.github.io/)
 [![Ruby on Rails](https://img.shields.io/badge/-Ruby--on--rails-CC0000?style=for-the-badge&logo=Ruby-on-rails&logoColor=white)](https://jessicafarias.github.io/)
 [![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React&logoColor=61DAFB)](https://reactjs.org/)
@@ -43,6 +42,8 @@ Mechatronic Engineer & Full-Stack Web Developer
 [![Visual Studio](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://jessicafarias.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
+
 
 </div>
 <div align="center">
