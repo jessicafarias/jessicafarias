@@ -68,8 +68,8 @@ Mechatronic Engineer & Full-Stack Web Developer
 <div align="center">
 <h3> I’m currently learning </h3>
 
-[![WebGL](https://img.shields.io/badge/-WebGL-0077B5?style=for-the-badge)](https://jessicafarias.github.io/)
-[![Website](https://img.shields.io/badge/-3D--render-black?style=for-the-badge)](https://jessicafarias.github.io/)
+[![GO](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://golang.org/)
+[![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://golang.org/)
 
 </div>
 
@@ -83,4 +83,4 @@ Mechatronic Engineer & Full-Stack Web Developer
 
 </div>
 
-<h3> ⚡ A mechatronics engineer learns electronics, mechanics, and how to program different microcontrollers. Upon graduation, I learned how to programmed desktop or mobile applications, and Microcontrollers. Besides that, I learned how to use some design tools and now I became a Full-Stack Web Developer. I never want to stop learning my brain always asks for new challenges to deal with and meanwhile I enjoy life working.</h3>
+<h4> ⚡ A mechatronics engineer knows electronics, mechanics, and how to program different microcontrollers. Upon graduation, I learned how to programmed desktop or mobile applications, and Microcontrollers. Besides that, I learned how to use some design tools and now I became a Full-Stack Web Developer. I never want to stop learning my brain always asks for new challenges to deal with and meanwhile I enjoy life working.</h4>
