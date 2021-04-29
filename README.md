@@ -82,5 +82,3 @@ Mechatronic Engineer & Full-Stack Web Developer
  [![TWITTER](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FariasRosado)
 
 </div>
-
-<h4> ⚡ A mechatronics engineer knows electronics, mechanics, and how to program different microcontrollers. Upon graduation, I learned how to programmed desktop or mobile applications, and Microcontrollers. Besides that, I learned how to use some design tools and now I became a Full-Stack Web Developer. I never want to stop learning my brain always asks for new challenges to deal with and meanwhile I enjoy life working.</h4>
