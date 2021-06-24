@@ -70,6 +70,9 @@ Mechatronic Engineer & Full-Stack Web Developer
 
 [![GO](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://golang.org/)
 [![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://golang.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://jessicafarias.github.io/)
+[![JENKINS](https://img.shields.io/badge/-JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://jessicafarias.github.io/)
+ 
 
 </div>
 
