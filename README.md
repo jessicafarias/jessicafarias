@@ -42,6 +42,7 @@ Mechatronic Engineer & Full-Stack Web Developer
 [![Visual Studio](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://jessicafarias.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://jessicafarias.github.io/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
 
 
