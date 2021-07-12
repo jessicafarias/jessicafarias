@@ -36,14 +36,14 @@ Mechatronic Engineer & Full-Stack Web Developer
 <div align="center">
 <h3> Tools </h3>
 
-[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://jessicafarias.github.io/)
-[![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://jessicafarias.github.io/)
-[![VSC](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
-[![Visual Studio](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://jessicafarias.github.io/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://jessicafarias.github.io/)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
+[![Android Studio](https://img.shields.io/badge/-Android--Studio-F7DF1E?style=for-the-badge&logo=Android-Studio&logoColor=black)](https://developer.android.com/studio)
+[![VSC](https://img.shields.io/badge/-Visual--Studio--Code-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio IDE](https://img.shields.io/badge/-Visual--Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white)](hhttps://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://jessicafarias.github.io/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://jessicafarias.github.io/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://jessicafarias.github.io/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://bitbucket.org/product/guides/getting-started/overview)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 </div>
@@ -70,9 +70,10 @@ Mechatronic Engineer & Full-Stack Web Developer
 <h3> I’m currently learning </h3>
 
 [![GO](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=Go&logoColor=white)](https://golang.org/)
-[![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://golang.org/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://jessicafarias.github.io/)
-[![JENKINS](https://img.shields.io/badge/-JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://jessicafarias.github.io/)
+[![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)](https://laravel.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![JENKINS](https://img.shields.io/badge/-JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+[![NEXTJS](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
  
 
 </div>
